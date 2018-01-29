@@ -1,0 +1,41 @@
+#item li{
+	display: inline-block;
+	font-size: 20px;
+	width: 10%;
+	font-family: 'Lobster', monospace;
+	font-size: 15px;
+	margin-top: 30px;
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-bottom: 2% ;
+	padding-top: 2%;
+	border-radius: 10px;
+	background-color: #DADADA;
+
+}
+
+#bouton1{
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Lobster', monospace;
+	background-color: #DADADA;
+	width: 100%;
+	border-radius: 4px;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	
+}
+
+#boutton{
+	text-align: center;
+}
+
+
+#item li:nth-child(1):hover, #item li:nth-child(2):hover, #item li:nth-child(3):hover, #item li:nth-child(4):hover{
+background: #BFBFBF;
+}
+	
+#bouton1:hover{
+background: #BFBFBF;
+}
+

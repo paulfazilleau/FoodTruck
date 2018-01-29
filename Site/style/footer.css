@@ -1,0 +1,31 @@
+*{margin: 0; padding : 0;}
+.mention{
+    float: left;
+    position: relative;
+    width: 33%;
+}
+.logo{
+    height: 30px;
+    width: 33%;
+}
+img{
+    width: 35px;
+    height: 35px;
+}
+
+footer{
+    text-align: bottom;
+    width: 100%;
+    height: 40px;
+    background-color: darkgrey;
+    float: bottom;
+    position: relative;
+    font-family: 'Lobster', monospace, Geneva, Arial;
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
+.Mention{
+    width:auto;
+    float: right;
+}
